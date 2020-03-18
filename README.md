@@ -11,3 +11,8 @@ To run:
     2. start 'business-service'
     2. start 'person-service'
     2. start 'api-gateway'
+
+    Test URLs:
+        Eureka: http://localhost:8761/
+        Businesses: http://localhost:8086/businesses
+        API gateway: http://localhost:8088/api/v1/businesses
