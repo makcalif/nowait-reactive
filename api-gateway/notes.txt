@@ -1,0 +1,4 @@
+http://localhost:8088/api/v1/first/test
+
+test the api route from curl: (browser should also work)
+curl -i -X GET -H "X-first-Header: abc" http://localhost:8088/api/v1/second/dummy
